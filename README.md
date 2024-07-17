@@ -1,4 +1,3 @@
-Sure! Here's a `README.md` for the Forkify project on GitHub:
 
 ````markdown
 # Forkify
